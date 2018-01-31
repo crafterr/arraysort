@@ -16,7 +16,7 @@ Dependance
 Installation by Composer
 ============
 
-    composer require crafterr\arraysort
+    composer require crafterr/arraysort dev-master
 
    
 Manual instalation
@@ -29,6 +29,9 @@ Using
 $arraySort = new ArraySort([ [1, 2, [3]], 4 ]);
    
 $array = $arraySort->arrangeElements();
+
+`return array 
+[1,2,3,4]`
    
     
 Features
