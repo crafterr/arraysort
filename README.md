@@ -16,7 +16,7 @@ Dependance
 Installation by Composer
 ============
 
-    composer require crafter\arraysort
+    composer require crafterr\arraysort
 
    
 Manual instalation
