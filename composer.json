@@ -1,0 +1,24 @@
+{
+    "name": "crafter/arraysort",
+    "description": "This is standard package by which advantage assoc array replace on simple array.",
+    "license": "DBAD",
+    "authors": [
+        {
+            "name": "Adam Pietras",
+            "email": "adam@crafter.net.pl"
+        }
+    ],
+    "type": "project",
+    "require": {
+		"php": ">=7.1",
+        "symfony/var-dumper": "^4.0"
+    },
+	"require-dev": {
+		"phpunit/phpunit": "^6.0"
+    },
+	"autoload": {
+        "psr-4": {
+            "Crafter\\ArraySort\\": "src/"
+        }
+    }
+}
