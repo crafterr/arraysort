@@ -1,7 +1,7 @@
 {
     "name": "crafterr/arraysort",
     "description": "This is standard package by which advantage assoc array replace on simple array.",
-    "license": "DBAD",
+    "license": "MIT",
     "authors": [
         {
             "name": "Adam Pietras",
