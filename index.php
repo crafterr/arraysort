@@ -6,7 +6,7 @@
  */
 
 require __DIR__.'/vendor/autoload.php';
-use Crafter\ArraySort\ArraySort;
+use Crafterr\ArraySort\ArraySort;
 
 /**
  * Index File

@@ -10,7 +10,7 @@
 */
 
 use PHPUnit\Framework\TestCase;
-use Crafter\ArraySort\ArraySort;
+use Crafterr\ArraySort\ArraySort;
 
 class ArraySortTest extends TestCase{
 

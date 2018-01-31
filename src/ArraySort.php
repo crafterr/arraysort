@@ -1,6 +1,6 @@
 <?php
 declare(strict_types=1);
-namespace Crafter\ArraySort;
+namespace Crafterr\ArraySort;
 
 /**
 *  ArraySort

@@ -1,5 +1,5 @@
 {
-    "name": "crafter/arraysort",
+    "name": "crafterr/arraysort",
     "description": "This is standard package by which advantage assoc array replace on simple array.",
     "license": "DBAD",
     "authors": [
@@ -18,7 +18,7 @@
     },
 	"autoload": {
         "psr-4": {
-            "Crafter\\ArraySort\\": "src/"
+            "Crafterr\\ArraySort\\": "src/"
         }
     }
 }
