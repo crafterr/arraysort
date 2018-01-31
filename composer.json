@@ -1,5 +1,6 @@
 {
     "name": "crafterr/arraysort",
+    "minimum-stability": "dev",
     "description": "This is standard package by which advantage assoc array replace on simple array.",
     "license": "MIT",
     "authors": [
